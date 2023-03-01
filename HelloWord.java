@@ -8,7 +8,7 @@ package helloword;
  *
  * 
  */
-public class HelloWord {
+public class HelloWord //Too lazy to fix this {
 
     /**
      * @param args the command line arguments
@@ -16,5 +16,5 @@ public class HelloWord {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
     }
-    //fehjaiufejiofewj
+    //KioqKioqaGVsbG8gdGhlcmUuLi4uIGxvb2tpbmcgZm9yIHNvbWV0aGluZyoqKio=
 }
