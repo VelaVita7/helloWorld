@@ -6,7 +6,7 @@ package helloword;
 
 /**
  *
- * 
+ * Inspired by the nintendo 64 
  */
 public class HelloWord //Too lazy to fix this {
 
@@ -15,6 +15,6 @@ public class HelloWord //Too lazy to fix this {
      */
     public static void main(String[] args) {
         System.out.println("HelloWorld");
-    }
+    } 
     //KioqKioqaGVsbG8gdGhlcmUuLi4uIGxvb2tpbmcgZm9yIHNvbWV0aGluZyoqKio=
 }
